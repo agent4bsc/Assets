@@ -1,0 +1,32 @@
+{
+  "name": "Dollaris",
+  "symbol": "USD",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "Dollaris Protocol Token",
+  "website": "https://www.dollaris.pro",
+  "explorer": "https://bscscan.com/token/0x00b6466D556C78C600b5B57a6762D353aCAD4b75",
+  "status": "active",
+  "id": "0x00b6466D556C78C600b5B57a6762D353aCAD4b75",
+  "tags": [
+    "defi"
+  ],
+  "links": [
+    {
+      "name": "docs",
+      "url": "https://www.dollaris.pro"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/SBAEDR/dollaris-usd-token"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/DollarisUSD"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/USD_DOLLARIS"
+    }
+  ]
+}
